@@ -1,0 +1,6 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# For macOS operating system
+.DS_Store
+.idea/
